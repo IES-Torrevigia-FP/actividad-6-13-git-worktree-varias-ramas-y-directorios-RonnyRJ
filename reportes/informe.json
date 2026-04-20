@@ -1,0 +1,247 @@
+{
+  "repo_default_branch": "main",
+  "required_files": [
+    "README.md",
+    "cp1-historial-worktree.txt",
+    "cp2-worktree-list.txt",
+    "cp3-trabajo-paralelo.txt",
+    "cp4-feature-b-worktree.txt",
+    "cp5-remove-prune.txt",
+    "reflexion-6-13.md"
+  ],
+  "missing_required": [],
+  "commits": {
+    "count": 14,
+    "items": [
+      {
+        "full": "a2cee51d657fafe4f4b9d79f83909be6fc70bc21",
+        "short": "a2cee51",
+        "parents": [
+          "6994e738e398fa0b865d53f2df8f79ef7ed776c4"
+        ],
+        "author": "Ronny Javier Roman Jimenez",
+        "date": "2026-04-20 10:09:42 +0200",
+        "message": "Finaliza actividad 6.13 - Worktree completado",
+        "score": 0.7
+      },
+      {
+        "full": "6994e738e398fa0b865d53f2df8f79ef7ed776c4",
+        "short": "6994e73",
+        "parents": [
+          "07ff9b283331871530afbaa4458e7711b28470cd"
+        ],
+        "author": "Ronny Javier Roman Jimenez",
+        "date": "2026-04-20 10:09:21 +0200",
+        "message": "Actualiza README en main",
+        "score": 0.4
+      },
+      {
+        "full": "07ff9b283331871530afbaa4458e7711b28470cd",
+        "short": "07ff9b2",
+        "parents": [
+          "630d92c24bb4886824cd8ae1a7cba151e150ed93"
+        ],
+        "author": "Ronny Javier Roman Jimenez",
+        "date": "2026-04-20 10:09:14 +0200",
+        "message": "Commit inicial en main",
+        "score": 0.7
+      },
+      {
+        "full": "630d92c24bb4886824cd8ae1a7cba151e150ed93",
+        "short": "630d92c",
+        "parents": [
+          "aa2b210220b7989c6965a8d8abdb8c00f8398f7b"
+        ],
+        "author": "RonnyRJ",
+        "date": "2026-04-20 08:55:58 +0200",
+        "message": "Delete reflexion-6-13.md",
+        "score": 0.7
+      },
+      {
+        "full": "aa2b210220b7989c6965a8d8abdb8c00f8398f7b",
+        "short": "aa2b210",
+        "parents": [
+          "667eb45d924b9dfd01a7c7d165ba6a3914c8d00a"
+        ],
+        "author": "RonnyRJ",
+        "date": "2026-04-20 08:55:11 +0200",
+        "message": "Delete cp5-remove-prune.txt",
+        "score": 0.7
+      },
+      {
+        "full": "667eb45d924b9dfd01a7c7d165ba6a3914c8d00a",
+        "short": "667eb45",
+        "parents": [
+          "7b47cf3b60e28baf0633506ec2c7b99736267af4"
+        ],
+        "author": "RonnyRJ",
+        "date": "2026-04-20 08:55:01 +0200",
+        "message": "Delete cp4-feature-b-worktree.txt",
+        "score": 0.7
+      },
+      {
+        "full": "7b47cf3b60e28baf0633506ec2c7b99736267af4",
+        "short": "7b47cf3",
+        "parents": [
+          "e6c3ad1c802f43330e2db746117a4887be00f452"
+        ],
+        "author": "RonnyRJ",
+        "date": "2026-04-20 08:54:50 +0200",
+        "message": "Delete cp3-trabajo-paralelo.txt",
+        "score": 0.7
+      },
+      {
+        "full": "e6c3ad1c802f43330e2db746117a4887be00f452",
+        "short": "e6c3ad1",
+        "parents": [
+          "8078a76bd9d65c13c3e83c2c0f107eddffc33eee"
+        ],
+        "author": "RonnyRJ",
+        "date": "2026-04-20 08:54:39 +0200",
+        "message": "Delete cp2-worktree-list.txt",
+        "score": 0.7
+      },
+      {
+        "full": "8078a76bd9d65c13c3e83c2c0f107eddffc33eee",
+        "short": "8078a76",
+        "parents": [
+          "ea99217db94e7ab3d9558fa1a9b94dbb70574e7b"
+        ],
+        "author": "RonnyRJ",
+        "date": "2026-04-20 08:54:28 +0200",
+        "message": "Delete cp1-historial-worktree.txt",
+        "score": 0.7
+      },
+      {
+        "full": "ea99217db94e7ab3d9558fa1a9b94dbb70574e7b",
+        "short": "ea99217",
+        "parents": [
+          "77a710a6cf0e9d2570938a5315154b6bc3395be6"
+        ],
+        "author": "Ronny Javier Roman Jimenez",
+        "date": "2026-04-20 08:49:26 +0200",
+        "message": "tarea",
+        "score": 0.3
+      },
+      {
+        "full": "77a710a6cf0e9d2570938a5315154b6bc3395be6",
+        "short": "77a710a",
+        "parents": [
+          "ada698cee13907682eb0338248b3f2cb9bb870c8"
+        ],
+        "author": "Ronny Javier Roman Jimenez",
+        "date": "2026-04-20 08:46:26 +0200",
+        "message": "Actualiza README en main",
+        "score": 0.4
+      },
+      {
+        "full": "ada698cee13907682eb0338248b3f2cb9bb870c8",
+        "short": "ada698c",
+        "parents": [
+          "6e44d5279b1746c7e8e05a579f04ea82c3c08807"
+        ],
+        "author": "Ronny Javier Roman Jimenez",
+        "date": "2026-04-20 08:46:19 +0200",
+        "message": "Commit inicial en main",
+        "score": 0.7
+      },
+      {
+        "full": "6e44d5279b1746c7e8e05a579f04ea82c3c08807",
+        "short": "6e44d52",
+        "parents": [
+          "deb1ad7931e8f0073cd8b46ef9d975a232e6febf"
+        ],
+        "author": "github-classroom[bot]",
+        "date": "2026-04-14 10:29:53 +0000",
+        "message": "add deadline",
+        "score": 1.0
+      },
+      {
+        "full": "deb1ad7931e8f0073cd8b46ef9d975a232e6febf",
+        "short": "deb1ad7",
+        "parents": [],
+        "author": "github-classroom[bot]",
+        "date": "2026-04-13 20:01:54 +0000",
+        "message": "Initial commit",
+        "score": 0.7
+      }
+    ],
+    "avg_msg_len": 24.6,
+    "quality": 0.65,
+    "merge_commit_count": 0
+  },
+  "worktree_checks": {
+    "cp1_historial_ramas": {
+      "ok": true,
+      "source": "cp1-historial-worktree.txt"
+    },
+    "cp2_worktree_feature_a": {
+      "ok": true,
+      "source": "cp2-worktree-list.txt"
+    },
+    "cp3_trabajo_paralelo": {
+      "ok": true,
+      "source": "cp3-trabajo-paralelo.txt"
+    },
+    "cp4_feature_b_add_b": {
+      "ok": true,
+      "source": "cp4-feature-b-worktree.txt"
+    },
+    "cp5_remove_prune": {
+      "ok": true,
+      "source": "cp5-remove-prune.txt"
+    },
+    "readme_final": {
+      "exists": true,
+      "minimum_content_ok": true
+    }
+  },
+  "readme_stats": {
+    "chars": 62,
+    "words": 9,
+    "headings": 1,
+    "images": 0,
+    "links": 0,
+    "code_fences": 0
+  },
+  "reflexion_stats": {
+    "chars": 1864,
+    "words": 304,
+    "headings": 4,
+    "images": 0,
+    "links": 0,
+    "code_fences": 0
+  },
+  "evidencias_encontradas": [
+    "cp1-historial-worktree.txt",
+    "cp2-worktree-list.txt",
+    "cp3-trabajo-paralelo.txt",
+    "cp4-feature-b-worktree.txt",
+    "cp5-remove-prune.txt",
+    "reflexion-6-13.md"
+  ],
+  "files_info": {
+    "total_files": 11,
+    "large_files": [],
+    "binary_files": []
+  },
+  "checks_no_puntuables": {
+    "estructura": {
+      "score_referencia": 2,
+      "max_referencia": 2,
+      "estado": "ok"
+    },
+    "min_commits": {
+      "esperado": 5,
+      "detectado": 14,
+      "ok": true
+    }
+  },
+  "scores": {
+    "worktree_tecnico (max_4)": 4,
+    "evidencias (max_3)": 3,
+    "reflexion (max_3)": 3,
+    "total": 10,
+    "sobre": 10
+  }
+}

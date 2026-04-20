@@ -1,6 +1,7 @@
+Comandos ejecutados:
 git worktree add -b feature-b ../wt-feature-b main
-/home/ronny/Documents/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-RonnyRJ  6994e73 [main]
-/home/ronny/Documents/dev/wt-feature-a                                                    dee542e [feature-a]
+git worktree list
+/home/ronny/Documents/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-RonnyRJ  a2cee51 [main]
 /home/ronny/Documents/dev/wt-feature-b                                                    7c2eac4 [feature-b]
 
 Explicación:

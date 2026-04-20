@@ -1,3 +1,8 @@
+git log --oneline --all
+a2cee51 Finaliza actividad 6.13 - Worktree completado
+7c2eac4 Añade funcionalidad B en rama feature-b
+dee542e Amplía detalles de funcionalidad A
+6994e73 Actualiza README en main
 bec77b9 Añade funcionalidad A
 07ff9b2 Commit inicial en main
 630d92c Delete reflexion-6-13.md
@@ -14,5 +19,7 @@ c944204 Añade funcionalidad B en rama feature-b
 ada698c Commit inicial en main
 6e44d52 add deadline
 deb1ad7 Initial commit
+git branch
   feature-a
++ feature-b
 * main
