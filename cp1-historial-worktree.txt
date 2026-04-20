@@ -1,6 +1,0 @@
-8d7dfad Añade funcionalidad A
-ada698c Commit inicial en main
-6e44d52 add deadline
-deb1ad7 Initial commit
-  feature-a
-* main
