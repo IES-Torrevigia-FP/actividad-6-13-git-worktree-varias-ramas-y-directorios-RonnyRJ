@@ -1,14 +1,9 @@
-Comando usado: git worktree remove ../wt-feature-a
-
-Antes de eliminar:
-/home/ronny/Documents/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-RonnyRJ  6994e73 [main]
+Comando: git worktree remove --force ../wt-feature-a
+\nEstado antes:
+/home/ronny/Documents/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-RonnyRJ  8686dcf [main]
 /home/ronny/Documents/dev/wt-feature-a                                                    dee542e [feature-a]
-/home/ronny/Documents/dev/wt-feature-b                                                    7c2eac4 [feature-b]
-
-Después de eliminar:
-/home/ronny/Documents/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-RonnyRJ  6994e73 [main]
-/home/ronny/Documents/dev/wt-feature-b                                                    7c2eac4 [feature-b]
-
-Explicación:
-'remove' elimina el directorio físico y la referencia en Git.
-'prune' limpia las referencias de worktrees cuyos directorios han sido borrados manualmente (sin usar 'remove').
+/home/ronny/Documents/dev/wt-feature-b                                                    8686dcf [feature-b]
+\nEstado despues:
+/home/ronny/Documents/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-RonnyRJ  8686dcf [main]
+/home/ronny/Documents/dev/wt-feature-b                                                    8686dcf [feature-b]
+\nExplicación: git worktree remove elimina el directorio y la referencia. git worktree prune limpia referencias de directorios borrados manualmente. Se recomienda usar remove siempre que sea posible.
