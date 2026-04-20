@@ -1,0 +1,18 @@
+bec77b9 Añade funcionalidad A
+07ff9b2 Commit inicial en main
+630d92c Delete reflexion-6-13.md
+aa2b210 Delete cp5-remove-prune.txt
+667eb45 Delete cp4-feature-b-worktree.txt
+7b47cf3 Delete cp3-trabajo-paralelo.txt
+e6c3ad1 Delete cp2-worktree-list.txt
+8078a76 Delete cp1-historial-worktree.txt
+ea99217 tarea
+c944204 Añade funcionalidad B en rama feature-b
+528acac Amplía detalles de funcionalidad A
+77a710a Actualiza README en main
+8d7dfad Añade funcionalidad A
+ada698c Commit inicial en main
+6e44d52 add deadline
+deb1ad7 Initial commit
+  feature-a
+* main
